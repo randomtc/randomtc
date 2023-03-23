@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./images/background.jpg" /></p>
+<p align="center"><img width="50%" height="50%" src="./images/background.jpg" /></p>
 
 > A Front end developer from **HangZhou, China**.
 
