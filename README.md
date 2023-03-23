@@ -1,15 +1,15 @@
-<p align="center"><img width="50%" height="50%" src="./images/background.jpg" /></p>
 
-> A Front end developer from **HangZhou, China**.
+> ### 📫 Reach me:
+> 
+- **name** : Ge Shihao
+- **occupation** : Front-end development engineer
+- **E-mail** : 2714780821@qq.com
 
 ### 🏗️ Learning:
 
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 
-### 📫 Reach me:
+<p align="center"><img width="100%" height="50%" src="./images/background.jpg" /></p>
 
-- **name** : Ge Shihao
-- **QQ** : 2714780821
-- **WeChat** : 15503854606
-- **E-mail** : 2714780821@qq.com
+
