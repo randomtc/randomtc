@@ -10,8 +10,7 @@
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 
-<a herf="https://github.com/randomtc/randomtc/issues/1">git 操作命令</a>
-
+[git 操作命令](https://github.com/randomtc/randomtc/issues/1)
 <p align="center"><img width="100%" height="50%" src="./images/background.jpg" /></p>
 
 
