@@ -1,4 +1,4 @@
-> ### :page_with_curl:Personal Information:
+> ### :clipboard: Personal Information:
 
 - **Name** : Ge Shihao
 - **Position** : Front-end development engineer
