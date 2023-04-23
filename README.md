@@ -1,5 +1,5 @@
 
-> ### Personal Information:
+> ### :page_with_curl:Personal Information:
 > 
 - **Name** : Ge Shihao
 - **Position** : Front-end development engineer
@@ -7,6 +7,7 @@
 - **Skills** : **JavaScript、React、TypeScript**
 
 
-> ###  [Study notes](https://github.com/randomtc/study-notes)
+> ### :book:  [Study notes](https://github.com/randomtc/study-notes)
+
 
 
