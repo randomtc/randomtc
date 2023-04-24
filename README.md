@@ -8,7 +8,7 @@
 - **Skills** : 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
 ![React Badge](https://img.shields.io/badge/React-black?logo=react&logoColor=#3C3C3C&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=fff&style=flat)
 
